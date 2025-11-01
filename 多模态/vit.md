@@ -43,8 +43,40 @@ clip要强很多了，泛化能力强
 <img width="537" height="353" alt="image" src="https://github.com/user-attachments/assets/1c5e7fc3-12af-4b7b-8210-c579625020da" />
 
 
+图文结合：
+
+1.文字token+图像+token
+
+2.文字embedding+图像embedding
+
+<img width="706" height="379" alt="image" src="https://github.com/user-attachments/assets/52980d69-782f-40a8-b72e-cbab42421656" />
+
+
 
 <img width="567" height="303" alt="image" src="https://github.com/user-attachments/assets/3bf2ee18-f30a-4a29-9bd3-4f0ed4daed1e" />
+
+机器学习三大任务：
+
+1.匹配
+
+2.识别
+
+3.生成
+
+
+<img width="541" height="305" alt="image" src="https://github.com/user-attachments/assets/9b7016d3-4c74-43a5-b4c0-4ae4e096be4b" />
+
+
+分布形式复杂，并不是一个标准的分布，
+
+无法获得所有的数据
+
+
+
+
+
+
+
 
 
 
